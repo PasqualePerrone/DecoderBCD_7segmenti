@@ -1,5 +1,5 @@
 //Decoder BCD a 7 segmenti creato tramite terminale
-//Codice concepito in equivalenza ad uno schema con porte logiche
+//Codice concepito in equivalenza ad uno schema di circuiti logici
 //Parte di attivazione segmenti risolta manualmente tramite Mappe di Karnaugh
 //Creato da Pasquale Perrone Settembre 2021
 
